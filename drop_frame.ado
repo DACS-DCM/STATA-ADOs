@@ -7,7 +7,6 @@ version 16
 ********************************************************************************
 
 
-capture program drop drop_frame
 program define drop_frame
     version 16
     syntax name(name=dataframe)
