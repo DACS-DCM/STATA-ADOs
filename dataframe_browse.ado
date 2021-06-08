@@ -7,7 +7,6 @@ version 16
 ********************************************************************************
 
 program define dataframe_browse
-    version 16
     syntax name(name=dataframe)
     frame change `dataframe'
     browse
